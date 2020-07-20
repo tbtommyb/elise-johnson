@@ -29,17 +29,14 @@ about:
 
 ########################## Notice ##############################
 notice:
-  enable : true
-  title : "I'm reopening!"
-  content: |
-    I am delighted to announce that my personal practice is reopening. The British Acupuncture Council has given clinics permission to reopen provided they follow Careful Practice. I’m looking forward to giving you great care and will be following stringent hygiene measures to keep us all safe:
-
-    * The clinic has been deep-cleaned and will be disinfected between each patient. All surfaces and contact points will be cleaned and couch covers, pillowcases and blankets changed.
-    * Before your session I will ask you to consent to treatment and to confirm that you have not been in contact with anyone with Covid-19.
-    * I will wash my hands regularly and on arrival ask you to do the same. I will take your temperature and provide you with a mask if you don’t have your own.
-    * I will be wearing a mask, visor and uniform with a plastic disposable apron throughout the session.
-
-    So things will look a little different for a while but it will be the same attentive, personal care attuned to your needs. Please contact me to arrange a consultation.
+  enable: true
+  title: "I'm reopening!"
+  content: "I am delighted to announce that my personal practice is reopening. I am now offering in-person acupuncture/shiatsu sessions my private treatment room."
+  image : "images/cta.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label: "Find out more"
+    link: "acupuncture-shiatsu-sessions"
 
 ###################### Call to action ########################
 cta:
@@ -52,57 +49,27 @@ cta:
     label : "Contact me"
     link : "products"
 
-######################## raw material #######################
-material:
+######################## Products #######################
+products:
   enable : true
   title : "Treatments I offer"
   subtitle : "I offer a range of treatments based on Chinese medicine."
-  materialItem:
+  product:
     - title: "In-person acupuncture/shiatsu"
       content: "I combine both modalities in a session. Fully safe, content content content"
-      image : "images/Elise-Johnson-Colchester-Acupuncture-3.jpg"
-    - title : "Qi gong classes via Zoom"
-      image : "images/Elise-Johnson-Colchester-Shiatsu.jpg"
-      content : "Acupuncture is effectively used for the treatment of back pain, headaches, migraine, and sports injury. As well as pain relief, it is helpful in treating anxiety,  insomnia, digestive problems, infertility, pregnancy issues and much more."
-    - title : "Shiatsu baby massage via Zoom"
-      image : "images/Elise-Johnson-Colchester-Paediatric-Acupuncture.jpg"
-      content : "Shiatsu is a hands-on physical therapy that supports the body’s natural ability to balance itself.  It originates from Japan but its roots are from Traditional Chinese Medicine."
-    - title : "Online Chinese medicine consultations"
-      image : "images/Elise-Johnson-Facial-Acupuncture.jpg"
-      content : "Including Guasha Cosmetic rolling instruction for Facial Rejuvenation.ge techniques in conjunction with tiny “baby needles” with the fundamental principles learned with the treatment of children with acupuncture."
-
-########################### Advantage #########################
-advantage:
-  enable : true
-  title : "Advantages of acupuncture"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
-  image : "images/advantage.png"
-  advantageList:
-    # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
-
-
-######################## Promo Video ##########################
-video:
-  enable : true
-  title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
-  videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
-
-
-######################## Products #############################
-products:
-  enable : true
-  title : "Products List"
-  # product item comes from "content/products"
-
+      image: "images/Elise-Johnson-Colchester-Acupuncture-3.jpg"
+    - title: "Qi gong classes via Zoom"
+      link: "qi-gong"
+      image: "images/Elise-Johnson-Colchester-Shiatsu.jpg"
+      content: "Acupuncture is effectively used for the treatment of back pain, headaches, migraine, and sports injury. As well as pain relief, it is helpful in treating anxiety,  insomnia, digestive problems, infertility, pregnancy issues and much more."
+    - title: "Shiatsu baby massage via Zoom"
+      link: "shiatsu-baby-course"
+      image: "images/Elise-Johnson-Colchester-Paediatric-Acupuncture.jpg"
+      content: "Shiatsu is a hands-on physical therapy that supports the body’s natural ability to balance itself.  It originates from Japan but its roots are from Traditional Chinese Medicine."
+    - title: "Online Chinese medicine consultations"
+      link: "chinese-medicine"
+      image: "images/Elise-Johnson-Facial-Acupuncture.jpg"
+      content: "Including Guasha Cosmetic rolling instruction for Facial Rejuvenation.ge techniques in conjunction with tiny “baby needles” with the fundamental principles learned with the treatment of children with acupuncture."
 
 ########################## Testimonial ########################
 testimonial:

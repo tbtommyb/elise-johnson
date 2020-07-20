@@ -1,5 +1,5 @@
 ---
-title: "Shiatsu Baby Course"
+title: "Shiatsu baby massage course"
 date: 2020-07-20T21:21:21+01:00
 draft: false
 ---
