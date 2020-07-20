@@ -22,58 +22,39 @@ disqusShortname = ""
   link = "plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
   link = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  link = "plugins/google-map/gmap.js"
 
 
-############################## navigation ###############################
+############################## Navigation ###############################
 [menu]
   [[menu.main]]
-  name = "Products"
-  URL = "products"
+  name = "About Elise"
+  URL = "about-elise"
   weight = 1
   [[menu.main]]
-  name = "Blog"
-  URL = "blog"
+  name = "Qi Gong classes"
+  URL = "qi-gong"
   weight = 2
   [[menu.main]]
-  name = "FAQ"
-  URL = "faq"
+  name = "In-person treatment"
+  URL = "acupuncture-shiatsu-sessions"
   weight = 3
   [[menu.main]]
-  name = "Contact"
-  URL = "contact"
+  name = "Chinese medicine consultation"
+  URL = "chinese-medicine"
   weight = 4
-
-  ############# footer menu #############
-  [[menu.footer]]
-  name = "Products"
-  URL = "products"
-  weight = 1
-
-  [[menu.footer]]
-  name = "Blog"
-  URL = "blog"
-  weight = 2
-
-  [[menu.footer]]
-  name = "FAQ"
-  URL = "faq"
-  weight = 3
-
-  [[menu.footer]]
-  name = "Terms & Conditions"
-  URL = "terms-conditions"
-  weight = 4
-
-  [[menu.footer]]
-  name = "Contact"
-  URL = "contact"
+  [[menu.main]]
+  name = "Shiatsu baby course"
+  URL = "shiatsu-baby-course"
   weight = 5
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 6
 
 #################### default parameters ################################
 [params]
 logo = "images/Elise-Johnson-Logo2-Final.png"
+footerImage = "images/Members_logo-1.gif"
 home = "Home"
 # Meta data
 description = "Descripton"

@@ -15,5 +15,6 @@ Thursdays Aug 6th,13th,20th,27th from  3:30 to 4:30pm
 You can choose 4 days from the above sessions.
 
 Cost: £40 (paid in advance). To reserve your place a £20 non-refundable deposit by bank transfer is required.
+Shiatsu baby massage £10 a class
 
 For more info and to book, get in touch here.

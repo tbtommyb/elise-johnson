@@ -19,20 +19,16 @@ about:
   title : "About Elise"
   content: |
     Elise Johnson is an experienced, highly qualified and much sought-after acupuncturist and shiatsu therapist. Her respected practice has been established since 1988 and is unique in that she is able to combine both therapies in her sessions in order to achieve the maximum benefit for her patients. She has a wide range of experience in treating women in pregnancy and postnatally and has expertise in treating babies and young children. Elise also teaches the ancient Chinese health care system of Qi Gong which has helped her with her energy and lifestyle so that she has been able to combine her dedication to her work with raising 5 children.
-
-    Elise’s treatments take place in friendly, informal and pleasant surroundings and are a relaxing and pleasurable experience.
-
-    As well as effectively treating a wide range of common ailments such as back pain, joint and limb discomfort, she specialises in helping women with natural fertility : Elise has had excellent results in deploying acupuncture in conjunction with IVF treatments to increase the chances of successful pregnancy. Having been blessed with 5 children herself, she enjoys helping her patients achieve their own dreams of having children. Elise also specialises in cosmetic acupuncture, particularly in the age range of 45-55 : her wonderful rejuvenating treatment includes body shiatsu, facial acupuncture with gua sha paddles to great effect.
-
-    Elise herself is a native New Yorker with that natural zip and energy but also a friendly and empathetic approach to her patients. She obtained a BSc from Cornell University in Nutritional Science and went on to study shiatsu at the Ohashi Institute, New York City, gaining her Massage Therapist licence at the Swedish Institute, NYC. Elise moved to London in 1985 to study acupuncture at the London School of Acupuncture and Traditional Chinese Medicine and subsequently did clinic training in China where she learnt the practice of Qi Gong mentioned above.
   image : "images/Elise-Johnson-Photograph.png"
+  button:
+    label: "Learn more"
+    link: "about-elise"
 
 ########################## Notice ##############################
 notice:
   enable: true
   title: "I'm reopening!"
   content: "I am delighted to announce that my personal practice is reopening. I am now offering in-person acupuncture/shiatsu sessions my private treatment room."
-  image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label: "Find out more"
@@ -43,7 +39,6 @@ cta:
   enable : true
   title : "Get in touch with me"
   content: "Experienced Acupuncturist and Shiatsu Therapist Elise Johnson is known for her relaxing, effective, results-driven treatments – in acupuncture, shiatsu and cosmetic acupuncture. Call Elise for a free introductory assessment and/ or a general chat about how she can help you or enhance your lifestyle!"
-  image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Contact me"
@@ -56,8 +51,9 @@ products:
   subtitle : "I offer a range of treatments based on Chinese medicine."
   product:
     - title: "In-person acupuncture/shiatsu"
-      content: "I combine both modalities in a session. Fully safe, content content content"
+      link: "acupuncture-shiatsu-sessions"
       image: "images/Elise-Johnson-Colchester-Acupuncture-3.jpg"
+      content: "I combine both modalities in a session. Fully safe, content content content"
     - title: "Qi gong classes via Zoom"
       link: "qi-gong"
       image: "images/Elise-Johnson-Colchester-Shiatsu.jpg"
@@ -78,31 +74,31 @@ testimonial:
   testimonialItem:
     - name: "Bonnie Berg"
       designation : "Chiropodist, USA"
-      content: "Absolutely AMAZING! I cannot say enough great things about Elise Johnson. She is a truly  gifted teacher and healer. I had back surgery a year and a half ago, and have had some residual problems and limitations. With her strong knowledge base and years of experience, Elise has been tremendously helpful to me. She is thorough, gentle,  intuitive,  caring and quite talented. With the pandemic, I have been taking online Qi Gong classes, and it’s like having her here in my living room. She is perceptive and able to guide my practice precisely, and to a higher level. Recently, we did a zoom instructional on Gua Sha facials, and I’m beginning to see some improvements in my skin texture and vitality! Elise Johnson is a rare gem - I assure you, you will love working with her!"
-    # testimonial item loop
-    - name : "Angelo Perara"
-      image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-      rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-      rating : "three" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "john Doe"
-      image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-      rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Riya Ventila"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-      rating : "four" # rating star, one to five
+      content: |
+        Absolutely AMAZING! I cannot say enough great things about Elise Johnson. She is a truly  gifted teacher and healer. I had back surgery a year and a half ago, and have had some residual problems and limitations. With her strong knowledge base and years of experience, Elise has been tremendously helpful to me. She is thorough, gentle,  intuitive,  caring and quite talented. With the pandemic, I have been taking online Qi Gong classes, and it’s like having her here in my living room. She is perceptive and able to guide my practice precisely, and to a higher level. Recently, we did a zoom instructional on Gua Sha facials, and I’m beginning to see some improvements in my skin texture and vitality! Elise Johnson is a rare gem - I assure you, you will love working with her!
+    - name: "Liz"
+      designation: "Cardiff, Wales"
+      content: "Elise is an inspirational and patient Qigong teacher. Practising these gentle but effective exercises with Elise’s online class has been hugely enriching. Helped make Lockdown not just bearable, but fun! Thoroughly recommend."
+    - name: "Rosie"
+      designation: "Castellon de la Plana, Spain"
+      content: "Doing qi gong with Elise is a unique and truly uplifting and gently energising experience."
+    - name: "Mena"
+      designation: "Cardiff, Wales"
+      content: "I am so pleased that I discovered Elise and qigong. During lockdown is has really kept me grounded and has actually helped me with some health issues. I definitely want to continue doing it indefinitely. And Elise is brilliant!"
+    - name: "Mary-Anne"
+      content: "I wanted to say how much I’m enjoying the qigong classes . I particularly enjoy the holistic approach to exercise using rhythmical movements, breathing techniques and meditation. This enhances my physical and mental well being."
+    - name: "Eli"
+      content: |
+        I have been attending a weekly Qi Gong classes since last September.
+        When I found out I was pregnant, I continued my practice as I knew it was beneficial to me.
+        When I found out Elise was hosting virtual Qi going during the lockdown I decided to sign up for it.
+        Qi Gong for me is like a moving meditation. Bring calmess and gently keep entire body supple and in balance. I also noticed that more I practice more I was able to refine my move, quietening mind and be sensitive to my needs for my changing body.
+        These are all important tools which has helped me through my pregnancy.  I am 30 weeks pregnant now and planning to continue my Qi Gong practice all the way through to my labour.
+
+######################## Video ##########################
+video:
+  enable : true
+  title : "Qi Gong"
+  content : "Preview of Elise's Qi Gong classes"
+  videoThumb : "images/video-preview.png"
+  videoURL : "https://www.youtube.com/embed/awf5OkP2IFE"

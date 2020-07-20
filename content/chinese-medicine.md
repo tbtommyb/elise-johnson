@@ -26,3 +26,4 @@ Meridians begin and end in the face so working on the face not only makes you lo
 Please contact me with your main treatment issue and I will provide a FREE ten minute phone consultation on how I can help.
 
 Full 1 hour Zoom sessions are £50. A 30 minute session is £30. Weekly follow ups are available at your request. Payment on appointment confirmation.
+Online consultations  Zoom £50 an hour . 30  minute follow up sessions  £30. Payment upon appointment confirmation.
