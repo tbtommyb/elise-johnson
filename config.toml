@@ -1,0 +1,123 @@
+baseURL = "https://elisejohnson.co.uk"
+languageCode = "en-gb"
+title = "Elise Johnson | Acupuncture"
+theme = "hargo"
+summaryLength = "20"
+paginate = 10
+disqusShortname = ""
+
+[params.plugins]
+  # CSS Plugins
+  [[params.plugins.css]]
+  link = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  link = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  link = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  link = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  link = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  link = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  link = "plugins/google-map/gmap.js"
+
+
+############################## navigation ###############################
+[menu]
+  [[menu.main]]
+  name = "Products"
+  URL = "products"
+  weight = 1
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+  [[menu.main]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 3
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 4
+
+  ############# footer menu #############
+  [[menu.footer]]
+  name = "Products"
+  URL = "products"
+  weight = 1
+
+  [[menu.footer]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+
+  [[menu.footer]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Terms & Conditions"
+  URL = "terms-conditions"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Contact"
+  URL = "contact"
+  weight = 5
+
+#################### default parameters ################################
+[params]
+logo = "images/Elise-Johnson-Logo2-Final.png"
+home = "Home"
+# Meta data
+description = "Descripton"
+author = "Elise Johnson"
+# google map
+gmapAPI = ""
+mapLatitude = ""
+mapLongitude = ""
+mapMarker = ""
+# Google Analitycs
+googleAnalitycsID = "" # Your ID
+# Contact Information
+mobile = "0124857985320"
+email = "demo@email.com"
+location = "Dhaka, Bangladedsh"
+# copyright
+copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+
+# Social Site
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+
+[[params.social]]
+icon = "ti-youtube"
+link = "#"
+
+[[params.social]]
+icon = "ti-instagram"
+link = "#"
+
+[[params.social]]
+icon = "ti-pinterest"
+link = "#"
+
+# Contact Form
+[params.contact]
+formAction = "#" # contact form works with formspree.io
