@@ -1,5 +1,5 @@
 ---
-title: "Acupuncture/shiatsu sessions"
+title: "In-person sessions"
 date: 2020-07-20T21:43:49+01:00
 draft: false
 ---

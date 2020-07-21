@@ -8,7 +8,7 @@ banner:
   # button
   button:
     enable : true
-    label : "Learn more"
+    label : "Find out more"
     link : "shiatsu-baby-course"
   video:
     enable : false

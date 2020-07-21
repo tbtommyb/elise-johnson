@@ -1,6 +1,7 @@
 ---
 title: "Join a Qi Gong lesson"
 date: 2020-07-20T21:33:43+01:00
+image: "images/video-preview.png"
 draft: false
 ---
 Join my daily Qi Gong classes

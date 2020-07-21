@@ -35,11 +35,11 @@ disqusShortname = ""
   URL = "qi-gong"
   weight = 2
   [[menu.main]]
-  name = "In-person treatment"
+  name = "In-person treatments"
   URL = "acupuncture-shiatsu-sessions"
   weight = 3
   [[menu.main]]
-  name = "Chinese medicine consultation"
+  name = "Chinese medicine by Zoom"
   URL = "chinese-medicine"
   weight = 4
   [[menu.main]]

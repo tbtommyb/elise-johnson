@@ -1,6 +1,7 @@
 ---
 title: "About Elise"
 date: 2020-07-20T22:01:35+01:00
+image: "images/Elise-Johnson-Photograph.png"
 draft: false
 ---
 
