@@ -71,13 +71,13 @@
 {{ end }}
 <!-- /about -->
 
-{{ if .Site.Data.homepage.cta.enable }}
-{{ partial "cta.html" .Site.Data.homepage.cta }}
+{{ if .Site.Data.homepage.contact.enable }}
+{{ partial "cta.html" .Site.Data.homepage.contact }}
 {{ end }}
 
-<!-- products -->
-{{ if .Site.Data.homepage.products.enable }}
-{{ with .Site.Data.homepage.products }}
+<!-- treatments -->
+{{ if .Site.Data.homepage.treatments.enable }}
+{{ with .Site.Data.homepage.treatments }}
 <section class="section pb-0">
   <div class="container">
     <div class="row">
@@ -105,7 +105,7 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /products -->
+<!-- /treatments -->
 
 <!-- promo video -->
 {{ if .Site.Data.homepage.video.enable }}

@@ -1,1 +1,1 @@
-p{font-size:1.2rem}.btn{font-size:1.4rem;text-transform:none}.cta p{font-size:1.3rem}
+p,body{font-size:1.2rem}.btn{font-size:1.4rem;text-transform:none}.cta p{font-size:1.3rem}

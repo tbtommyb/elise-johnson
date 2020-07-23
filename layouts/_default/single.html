@@ -10,6 +10,9 @@
           <div class="content">
             {{.Content}}
           </div>
+          {{ if .Params.BottomImage }}
+          <img src="{{ .Params.BottomImage | absURL }}" alt="{{ .Title }}" class="w-50 mb-2 mr-4 float-left">
+          {{ end }}
         </article>
       </div>
     </div>

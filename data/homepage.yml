@@ -1,71 +1,81 @@
-############################ banner ##########################
+############################ Banner ##########################
 banner:
   enable : true
-  title : "Shiatsu Baby Massage 4-week summer course"
-  subtitle: "Book your place now. Taught in the comfort of your own home via Zoom. Limited places available."
-  content : "Facial Acupuncture is a natural, non-surgical facial that is now very popular and a highly acclaimed alternative to invasive injections and chemical treatments."
+  title : "NEW: Shiatsu Baby Massage 4-week summer course"
+  subtitle: "Taught in the comfort of your own home via Zoom. Limited places available -- book your place now!"
+  content : "Promotes bonding, well-being and relaxation. We'll work with meridians and acupressure points to help with common baby ailments."
   image : "images/Elise-Johnson-Facial-Acupuncture.jpg"
   # button
   button:
     enable : true
-    label : "Find out more"
+    label : "Course details"
     link : "shiatsu-baby-course"
   video:
     enable : false
+
+########################## Notice ##############################
+notice:
+  enable: true
+  title: "I'm reopening!"
+  content: "I am delighted to announce that my personal practice is reopening for in-person treatments. I offer combined shiatsu/acupuncture sessions in my clean, private treatment room."
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label: "Find out more"
+    link: "acupuncture-shiatsu-sessions"
 
 ########################## About ##############################
 about:
   enable : true
   title : "About Elise"
   content: |
-    Elise Johnson is an experienced, highly qualified and much sought-after acupuncturist and shiatsu therapist. Her respected practice has been established since 1988 and is unique in that she is able to combine both therapies in her sessions in order to achieve the maximum benefit for her patients. She has a wide range of experience in treating women in pregnancy and postnatally and has expertise in treating babies and young children. Elise also teaches the ancient Chinese health care system of Qi Gong which has helped her with her energy and lifestyle so that she has been able to combine her dedication to her work with raising 5 children.
+    Elise is an experienced, highly qualified and much sought-after acupuncturist and shiatsu therapist. Her respected practice has been established since 1988 and is unique in that she is able to combine both therapies in her sessions in order to achieve the maximum benefit for her patients. She has a wide range of experience in treating women in pregnancy and postnatally and has expertise in treating babies and young children.
+
+    Elise also teaches the ancient Chinese health care system of Qi Gong which has helped her with her energy and lifestyle so that she has been able to combine her dedication to her work with raising 5 children.
   image : "images/Elise-Johnson-Photograph.png"
   button:
-    label: "Learn more"
+    label: "See Elise's expertise"
     link: "about-elise"
 
-########################## Notice ##############################
-notice:
-  enable: true
-  title: "I'm reopening!"
-  content: "I am delighted to announce that my personal practice is reopening. I am now offering in-person acupuncture/shiatsu sessions my private treatment room."
+###################### Contact ########################
+contact:
+  enable : true
+  title : "Contact Elise"
+  content: "Call or email Elise for a free introductory assessment or even just a general chat about how she can help you and enhance your lifestyle!"
   overlayImage : "images/cta-overlay.png"
   button:
-    label: "Find out more"
-    link: "acupuncture-shiatsu-sessions"
+    label : "Contact Elise"
+    link : "contact"
 
-###################### Call to action ########################
-cta:
+######################## Treatments #######################
+treatments:
   enable : true
-  title : "Get in touch with me"
-  content: "Experienced Acupuncturist and Shiatsu Therapist Elise Johnson is known for her relaxing, effective, results-driven treatments – in acupuncture, shiatsu and cosmetic acupuncture. Call Elise for a free introductory assessment and/ or a general chat about how she can help you or enhance your lifestyle!"
-  overlayImage : "images/cta-overlay.png"
-  button:
-    label : "Contact me"
-    link : "products"
-
-######################## Products #######################
-products:
-  enable : true
-  title : "Treatments I offer"
-  subtitle : "I offer a range of treatments based on Chinese medicine."
+  title : "Treatments"
+  subtitle : "Elise offers a range of treatments, all based on traditional Chinese medicine. Some are available remotely via Zoom."
   product:
     - title: "In-person acupuncture/shiatsu"
       link: "acupuncture-shiatsu-sessions"
       image: "images/Elise-Johnson-Colchester-Acupuncture-3.jpg"
-      content: "I combine both modalities in a session. Fully safe, content content content"
-    - title: "Qi gong classes via Zoom"
+      content: "Elise uniquely combines acupuncture and shiatsu massage in one session. All take place at her clean, private treatment room."
+    - title: "Online Qi Gong classes via Zoom"
       link: "qi-gong"
       image: "images/Elise-Johnson-Colchester-Shiatsu.jpg"
-      content: "Acupuncture is effectively used for the treatment of back pain, headaches, migraine, and sports injury. As well as pain relief, it is helpful in treating anxiety,  insomnia, digestive problems, infertility, pregnancy issues and much more."
-    - title: "Shiatsu baby massage via Zoom"
+      content: "Elise teaches daily Gi Gong classes via Zoom. The perfect way to exercise and manage your headspace during lockdown!"
+    - title: "Shiatsu baby massage course via Zoom"
       link: "shiatsu-baby-course"
       image: "images/Elise-Johnson-Colchester-Paediatric-Acupuncture.jpg"
-      content: "Shiatsu is a hands-on physical therapy that supports the body’s natural ability to balance itself.  It originates from Japan but its roots are from Traditional Chinese Medicine."
+      content: "Elise runs a 4-week shitasu course focused on paediatric care. Fun and relaxing for baby and family!"
     - title: "Online Chinese medicine consultations"
       link: "chinese-medicine"
       image: "images/Elise-Johnson-Facial-Acupuncture.jpg"
-      content: "Including Guasha Cosmetic rolling instruction for Facial Rejuvenation.ge techniques in conjunction with tiny “baby needles” with the fundamental principles learned with the treatment of children with acupuncture."
+      content: "Elise's online consultations include a tongue analysis and Guasha cosmetic rolling instruction for facial rejuvenation."
+
+######################## Video ##########################
+video:
+  enable : true
+  title : "Qi Gong"
+  content : "Check out a preview of Elise's daily Qi Gong classes. Join from just £4 a class."
+  videoThumb : "images/video-preview.png"
+  videoURL : "https://www.youtube.com/embed/awf5OkP2IFE"
 
 ########################## Testimonial ########################
 testimonial:
@@ -94,11 +104,3 @@ testimonial:
         When I found out Elise was hosting virtual Qi going during the lockdown I decided to sign up for it.
         Qi Gong for me is like a moving meditation. Bring calmess and gently keep entire body supple and in balance. I also noticed that more I practice more I was able to refine my move, quietening mind and be sensitive to my needs for my changing body.
         These are all important tools which has helped me through my pregnancy.  I am 30 weeks pregnant now and planning to continue my Qi Gong practice all the way through to my labour.
-
-######################## Video ##########################
-video:
-  enable : true
-  title : "Qi Gong"
-  content : "Preview of Elise's Qi Gong classes"
-  videoThumb : "images/video-preview.png"
-  videoURL : "https://www.youtube.com/embed/awf5OkP2IFE"

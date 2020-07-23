@@ -1,20 +1,22 @@
 ---
-title: "Shiatsu baby massage course"
+title: "Summer Shiatsu baby massage course"
 date: 2020-07-20T21:21:21+01:00
 draft: false
+image: "images/Elise-Johnson-Colchester-Paediatric-Acupuncture.jpg"
 ---
 
-The Shiatsu baby massage routine is performed on babies from 6 weeks old upwards and promotes bonding and well-being, while relaxing babies, mums, dads, and carers. Alongside traditional massage techniques, we work with meridians and acupressure points to help with issues around digestion such as colic, wind, constipation, diarrhoea, teething difficulties, sleep, rashes (including nappy rash) and chest congestion.
+For a limited time Elise is running a 4-week course on baby shiatsu massage.
 
-Besides which it is fun and enjoyable to do! We have time at the end of the session to have a chat and share experiences or pickup tips. There is a Chinese saying “treat the mother to treat the child”: these group sessions have been found to be very supportive to the mother’s general well-being also.
+Shiatsu baby massage is performed on babies from 6 weeks old upwards and promotes bonding and well-being as well as relaxing babies, mums, dads, and carers. Alongside traditional massage techniques, Elise will show you how to work with meridians and acupressure points to help issues around digestion such as colic, wind, constipation, diarrhoea, teething difficulties, sleep, rashes (including nappy rash) and chest congestion.
 
-Sessions are about 45mins to an hour and are on the following dates:
-Tuesdays Aug 4th, 11th, 18th, 25th from 9:45 to 10:45am
-Thursdays Aug 6th,13th,20th,27th from  3:30 to 4:30pm
+On top of that, **shiatsu baby mssage is fun and enjoyable** to do! Elise will make sure there is time at the end of the session to have a chat and share experiences or pick up tips. There is a Chinese saying *“treat the mother to treat the child”*. Elise intends for these group sessions to be very supportive to the mother's general well-being.
 
-You can choose 4 days from the above sessions.
+# Practical details
+Sessions will last for 45 minutes to an hour and will be on the following dates:
 
-Cost: £40 (paid in advance). To reserve your place a £20 non-refundable deposit by bank transfer is required.
-Shiatsu baby massage £10 a class
+- **9:45-10:45 on Tuesdays** 4th, 11th, 18th, 25th August
+- **3:30-4:30 on Thursdays** 6th, 13th, 20th, 27th August
 
-For more info and to book, get in touch here.
+You can choose any four days from the above sessions to fit around your schedule.
+
+The cost of the summer course is £40, payable in advance. Please [get in touch now](/contact) to reserve your spot -- places are limited to keep the sessions intimate and friendly.
