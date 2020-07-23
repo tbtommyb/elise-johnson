@@ -22,6 +22,8 @@ disqusShortname = ""
   link = "plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
   link = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  link = "plugins/google-map/gmap.js"
 
 
 ############################## Navigation ###############################
@@ -46,6 +48,11 @@ disqusShortname = ""
   name = "Shiatsu baby course"
   URL = "shiatsu-baby-course"
   weight = 5
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  highlight = "true"
+  weight = 6
 
 #################### default parameters ################################
 [params]
@@ -56,45 +63,20 @@ home = "Home"
 description = "Descripton"
 author = "Elise Johnson"
 # google map
-gmapAPI = ""
-mapLatitude = ""
-mapLongitude = ""
-mapMarker = ""
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyB6vJiBtIFjrz_cmMe1dwmNwaGUiKytSWc"
+mapLatitude = "51.9076161195175"
+mapLongitude = "0.8995877068542768"
+mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
-# copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+mobile = "07801254138"
+email = "elise@elisejohnson.co.uk"
+location = "155 Turner Road, Colchester, CO4 5XW"
+copyright = "Copyright &copy; 2019-{year}. All Rights Reserved"
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use .png , .svg or .gif format
 
-# Social Site
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-
-[[params.social]]
-icon = "ti-instagram"
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
-
-# Contact Form
-[params.contact]
-formAction = "#" # contact form works with formspree.io

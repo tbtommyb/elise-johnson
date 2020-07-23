@@ -1,0 +1,19 @@
+############################# contact info ################
+contact:
+  enable : true
+  # office
+  office:
+    title : "Elise's Colchester clinic"
+    content : "Elise's clinic is bright, airy and very relaxing. Please feel free to get in contact with any query you might. Elise will do her utmost to accommodate your schedule."
+
+  # opennig hour
+  opennigHour:
+    title : "In-person appointment times"
+    dayTimeList:
+      - dayTime : "Wednesday: 9:00 – 17:00"
+      - dayTime : "Thursday: 9:00 – 17:00"
+      - dayTime : "Friday: 9:00 – 17:00"
+
+####################### google map ########################
+map:
+  enable: true
