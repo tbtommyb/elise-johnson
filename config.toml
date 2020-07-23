@@ -46,10 +46,6 @@ disqusShortname = ""
   name = "Shiatsu baby course"
   URL = "shiatsu-baby-course"
   weight = 5
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 6
 
 #################### default parameters ################################
 [params]
