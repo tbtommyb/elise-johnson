@@ -1,11 +1,7 @@
 <footer class="section pb-0 pt-0">
   <div class="container">
     <div class="row border-bottom pb-5 justify-content-between">
-      <div class="col-12 text-center section-sm">
-        <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.footerImage | absURL }}" class="img-fluid"
-            alt="{{ .Site.Title }}"></a>
-      </div>
-      <div class="col-md-4 col-sm-6">
+      <div class="col-md-6 col-sm-12">
         <h5 class="font-weight-medium mb-4">Connect with Elise</h5>
         <ul class="list-unstyled mb-5">
           <li class="mb-3"><a class="text-color" href="tel:{{ .Site.Params.mobile }}"><i
@@ -16,6 +12,10 @@
           <li class="mb-3"><i class="ti-location-pin text-primary mr-2"></i> {{ .Site.Params.location }}
           </li>
         </ul>
+      </div>
+      <div class="col-md-6 col-sm-12 text-center section-sm">
+        <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.footerImage | absURL }}" class="img-fluid"
+            alt="{{ .Site.Title }}"></a>
       </div>
     </div>
     <div class="row">

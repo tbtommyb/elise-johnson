@@ -6,7 +6,7 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      <div class="col-lg-4 col-sm-6">
+      <div class="col-lg-6 col-sm-12 mb-4">
         {{ with .Site.Data.contact.contact.office }}
         <h3 class="mb-4">{{ .title | markdownify }}</h3>
         <p>{{ .content | markdownify }}</p>
@@ -22,7 +22,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-lg-3 offset-lg-1 col-sm-6">
+      <div class="col-lg-6 col-sm-12">
         {{ with .Site.Data.contact.contact.opennigHour }}
         <h3 class="mb-4">{{ .title | markdownify }}</h3>
         <ul class="list-unstyled">

@@ -19,8 +19,13 @@
   {{ $custom := resources.Get "scss/custom.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
 
-  {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
-
+  <style type="text/css">
+    .no-fouc {display: none;}
+  </style>
+  <script type="text/javascript">
+    document.documentElement.classList.add('no-fouc');
+    document.addEventListener("DOMContentLoaded", function(event) {
+      document.documentElement.classList.remove('no-fouc');
+    });
+  </script>
 </head>
