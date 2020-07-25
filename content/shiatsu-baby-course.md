@@ -2,10 +2,12 @@
 title: "Summer Shiatsu baby massage course"
 date: 2020-07-20T21:21:21+01:00
 draft: false
-image: "images/Elise-Johnson-Colchester-Paediatric-Acupuncture.jpg"
+image: "images/shiatsu-baby-photo.png"
 ---
 
 Elise is running a new, 4-week course on baby shiatsu massage.
+
+Elise has been teaching shiatsu baby massage for decades. This photo shows Elise performing shiatsu baby massage on her third child in 1995!
 
 Shiatsu baby massage is performed on babies from 6 weeks old upwards and promotes bonding and well-being as well as relaxing babies, mums, dads, and carers. Alongside traditional massage techniques, Elise will show you how to work with meridians and acupressure points to help issues around digestion such as colic, wind, constipation, diarrhoea, teething difficulties, sleep, rashes (including nappy rash) and chest congestion.
 
