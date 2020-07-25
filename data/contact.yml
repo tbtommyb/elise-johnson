@@ -10,9 +10,12 @@ contact:
   opennigHour:
     title : "In-person appointment times"
     dayTimeList:
-      - dayTime : "Wednesday: 9:00 – 17:00"
-      - dayTime : "Thursday: 9:00 – 17:00"
-      - dayTime : "Friday: 9:00 – 17:00"
+      - dayTime : "Monday: 12:30 – early evening"
+      - dayTime : "Tuesday: 12:30 – early evening"
+      - dayTime : "Wednesday: 12:30 – early evening"
+      - dayTime : "Thursday: 12:30 – early evening"
+      - dayTime : "Friday: afternoons twice a month"
+      - dayTime : "Saturday: please contact Elise"
 
 ####################### google map ########################
 map:

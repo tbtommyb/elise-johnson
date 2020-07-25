@@ -5,7 +5,7 @@ draft: false
 image: "images/Elise-Johnson-Colchester-Paediatric-Acupuncture.jpg"
 ---
 
-For a limited time Elise is running a 4-week course on baby shiatsu massage.
+Elise is running a new, 4-week course on baby shiatsu massage.
 
 Shiatsu baby massage is performed on babies from 6 weeks old upwards and promotes bonding and well-being as well as relaxing babies, mums, dads, and carers. Alongside traditional massage techniques, Elise will show you how to work with meridians and acupressure points to help issues around digestion such as colic, wind, constipation, diarrhoea, teething difficulties, sleep, rashes (including nappy rash) and chest congestion.
 
@@ -20,3 +20,5 @@ Sessions will last for 45 minutes to an hour and will be on the following dates:
 You can choose any four days from the above sessions to fit around your schedule.
 
 The cost of the summer course is £40, payable in advance. Please [get in touch now](/contact) to reserve your spot -- places are limited to keep the sessions intimate and friendly.
+
+You are welcome to attend any session as a FREE taster with no further commitment required.
