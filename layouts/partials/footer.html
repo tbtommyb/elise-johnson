@@ -13,17 +13,20 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-6 col-sm-12 text-center section-sm">
-        <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.footerImage | absURL }}" class="img-fluid"
-            alt="{{ .Site.Title }}"></a>
+    </div>
+  </div>
+  <div class="container-fluid color-bar">
+    <div class="row justify-content-center">
+      <div class="col-xs-12 col-sm-8 col-md-6">
+        <a class="" href="{{ site.BaseURL }}"><img class="img-fluid" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}"></a>
       </div>
     </div>
-    <div class="row">
-      <div class="col-12 text-center py-4">
-        {{ with .Site.Params.Copyright }}
-        {{ replace . "{year}" now.Year | markdownify }}
-        {{ end }}
-      </div>
+  </div>
+  <div class="row">
+    <div class="col-12 text-center py-4">
+      {{ with .Site.Params.Copyright }}
+      {{ replace . "{year}" now.Year | markdownify }}
+      {{ end }}
     </div>
   </div>
 </footer>

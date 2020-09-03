@@ -56,8 +56,8 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/Elise-Johnson-Logo2-Final.png"
-footerImage = "images/Members_logo-1.gif"
+logo = "images/main-logo-white.svg"
+footerImage = "images/footer-icon-white.svg"
 home = "Home"
 # Meta data
 description = "Descripton"
