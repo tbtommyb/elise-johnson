@@ -57,7 +57,7 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 logo = "images/main-logo-white.svg"
-footerImage = "images/footer-icon-white.svg"
+footerImage = "images/footer-icon-white-no-text.svg"
 home = "Home"
 # Meta data
 description = "Descripton"
