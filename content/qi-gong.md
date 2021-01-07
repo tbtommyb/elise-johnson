@@ -1,5 +1,5 @@
 ---
-title: "Join Elise's daily Qi Gong classes"
+title: "Join Elise's Zoom Qi Gong classes"
 date: 2020-07-20T21:33:43+01:00
 image: "images/video-preview.png"
 draft: false
@@ -11,14 +11,18 @@ Qi Gong is similar to Tai Chi but easier to learn. It uses slow, graceful moveme
 
 Classes are for all ages and loose-fitting clothing and non-slip socks are the only equipment required.
 
-## Class details
+Just [get in touch](/contact) for a **FREE** taster class.
+
+## NEW: Lockdown special offer
+
+Elise is offering a new Saturday class to help us maintain our health, mood and immune systems during the winter lockdown.
+
+Saturday classes are just **£5** every Saturday for a 50 minute class.
+
+## Regular class details
 
 Qi Gong classes are £8 a class, with discounts if you attend multiple classes per week:
 - 2 classes a week for £10
 - Special offer: **3 classes a week for £12** (just £4 per class!)
 
-In July classes are at 10am each day.
-
-From 1 August they will be 10am Monday, Wednesday, Friday and 11am Tuesday, Thursday.
-
-Please [get in touch](/contact) for a FREE taster class.
+Classes are at 10am Monday, Wednesday, Friday and 11am Tuesday, Thursday.

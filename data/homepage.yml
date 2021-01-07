@@ -1,23 +1,23 @@
 ############################ Banner ##########################
 banner:
-  enable : false
-  title : "Shiatsu Baby Massage 4-week course"
-  subtitle: "Taught in the comfort of your own home via Zoom. Limited places available -- book your place now!"
-  content : "Promotes bonding, well-being and relaxation. We'll work with meridians and acupressure points to help with common baby ailments."
-  image : "images/Elise-Johnson-Colchester-Paediatric-Acupuncture.jpg"
+  enable : true
+  title : "NEW Saturday Qi Gong classes"
+  subtitle: "50 minute class for only £5 every Saturday!"
+  content : "Exercise during lockdown is so essential for our physical and mental health so I am adding a NEW Qi Gong class on Saturdays via Zoom. Classes have been running since March with great feedback. Try a complimentary session to see what it’s all about -- all ages welcome!"
+  image : "images/zoom.jpg"
   # button
   button:
     enable : true
-    label : "Course details"
-    link : "shiatsu-baby-course"
+    label : "Sign up"
+    link : "qi-gong"
   video:
     enable : false
 
 ########################## Notice ##############################
 notice:
   enable: true
-  title: "I'm reopening!"
-  content: "I am delighted to announce that my personal practice is reopening for in-person treatments. I offer combined shiatsu/acupuncture sessions in my clean, private treatment room in Colchester, Essex."
+  title: "Lockdown update"
+  content: "Face-to-face sessions are still available for those needing urgent care. All in-person treatments follow the British Acupuncture Council's strict Covid Secure Guidelines. Elise also offers remote sessions for those who are vulnerable or shielding."
   overlayImage : "images/cta-overlay.png"
   button:
     label: "Find out more"
