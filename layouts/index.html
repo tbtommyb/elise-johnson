@@ -6,7 +6,7 @@
 <section class="section-sm">
   <div class="container">
     <div class="row justify-content-between align-items-center">
-      <div class="col-lg-5 col-md-6 order-2 order-md-1">
+      <div class="col-lg-5 col-md-6 order-1 mb-2">
         <h1>{{ .title | markdownify }}</h1>
         <h3>{{ .subtitle | markdownify }}</h3>
         <p>{{ .content | markdownify }}</p>
@@ -34,7 +34,7 @@
         </div>
         {{ end }}
       </div>
-      <div class="col-lg-7 col-md-6 order-1 order-lg-2">
+      <div class="col-lg-7 col-md-6 order-2">
         <img src="{{ .image | absURL }}" class="img-fluid" alt="">
       </div>
     </div>
