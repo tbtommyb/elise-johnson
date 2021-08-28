@@ -13,12 +13,6 @@ Classes are for all ages and loose-fitting clothing and non-slip socks are the o
 
 Just [get in touch](/contact) for a **FREE** taster class.
 
-## NEW: Lockdown special offer
-
-Elise is offering a new Saturday class to help us maintain our health, mood and immune systems during the winter lockdown.
-
-Saturday classes are just **£5** every Saturday for a 50 minute class.
-
 ## Regular class details
 
 Qi Gong classes are £8 a class, with discounts if you attend multiple classes per week:

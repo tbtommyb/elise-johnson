@@ -1,6 +1,6 @@
 ############################ Banner ##########################
 banner:
-  enable : true
+  enable : false
   title : "NEW Saturday Qi Gong classes"
   subtitle: "50 minute class for only £5 every Saturday!"
   content : "Exercise during lockdown is so essential for our physical and mental health so I am adding a NEW Qi Gong class on Saturdays via Zoom. Classes have been running since March with great feedback. Try a complimentary session to see what it’s all about -- all ages welcome!"
@@ -16,8 +16,8 @@ banner:
 ########################## Notice ##############################
 notice:
   enable: true
-  title: "Lockdown update"
-  content: "Face-to-face sessions are still available for those needing urgent care. All in-person treatments follow the British Acupuncture Council's strict Covid Secure Guidelines. Elise also offers remote sessions for those who are vulnerable or shielding."
+  title: "Return to careful practice"
+  content: "Elise is delighted to once again offer in-person treatments following the British Acupuncture Council's 'careful practice' guidelines. Elise also offers remote sessions for those who are vulnerable or shielding."
   overlayImage : "images/cta-overlay.png"
   button:
     label: "Find out more"
