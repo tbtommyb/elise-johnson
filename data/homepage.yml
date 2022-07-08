@@ -15,7 +15,7 @@ banner:
 
 ########################## Notice ##############################
 notice:
-  enable: true
+  enable: false
   title: "Return to careful practice"
   content: "Elise is delighted to once again offer in-person treatments following the British Acupuncture Council's 'careful practice' guidelines. Elise also offers remote sessions for those who are vulnerable or shielding."
   overlayImage : "images/cta-overlay.png"

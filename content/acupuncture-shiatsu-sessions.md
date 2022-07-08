@@ -20,13 +20,4 @@ Clinic sessions are offered only at Elise's Colchester clinic.
 
 Please [contact Elise](/contact) for appointments.
 * Available afternoons from 12:30 to early evening.
-* **Each hour-long session is just £55**.
-
-## Keeping safe during coronavirus
-
-The British Acupuncture Council has given clinics permission to reopen provided they follow "Careful Practice". Elise takes the following stringent hygiene measures to keep you safe:
-
-* The clinic has been deep-cleaned and is disinfected between each patient. All surfaces and contact points are cleaned and couch covers, pillowcases and blankets changed.
-* Before your session Elise will ask you to consent to treatment and to confirm that you have not been in contact with anyone with Covid-19.
-* Elise washes her hands regularly and on arrival will ask you to do the same. Elise will take your temperature and provide you with a mask if you don’t have your own.
-* Elise will be wearing a mask, visor and uniform with a plastic disposable apron throughout the session.
+* **Each hour-long session is just £60**.
