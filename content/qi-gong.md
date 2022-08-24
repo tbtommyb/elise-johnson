@@ -19,4 +19,4 @@ Qi Gong classes are £8 a class, with discounts if you attend multiple classes p
 - 2 classes a week for £10
 - Special offer: **3 classes a week for £12** (just £4 per class!)
 
-Classes are at 10am Monday, Wednesday, Friday and 11am Tuesday, Thursday.
+Classes are at 9.30am on Mondays, Tuesdays, Thursdays and Fridays.
