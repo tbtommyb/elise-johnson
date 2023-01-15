@@ -10,7 +10,11 @@ Elise’s treatments take place in friendly, informal and pleasant surroundings 
 
 As well as effectively treating a wide range of common ailments such as back pain, joint and limb discomfort, she specialises in helping women with natural fertility: Elise has had excellent results in deploying acupuncture in conjunction with IVF treatments to increase the chances of successful pregnancy. Having been blessed with 5 children herself, she enjoys helping her patients achieve their own dreams of having children. Elise also specialises in cosmetic acupuncture, particularly in the age range of 45-55: her wonderful rejuvenating treatment includes body shiatsu, facial acupuncture with gua sha paddles to great effect.
 
-Elise herself is a native New Yorker with that natural zip and energy but also a friendly and empathetic approach to her patients. She obtained a BSc from Cornell University in Nutritional Science and went on to study shiatsu at the Ohashi Institute, New York City, gaining her Massage Therapist licence at the Swedish Institute, NYC. Elise moved to London in 1985 to study acupuncture at the London School of Acupuncture and Traditional Chinese Medicine. She was one of the founding members of The Shiatsu College in London in 1986. Elise subsequently did clinic training in China where she learnt the practice of Qi Gong. Her interest in Facial Acupuncture started in 2007 and she has completed training with Radha Thambirajah.
+Elise herself is a native New Yorker with that natural zip and energy but also a friendly and empathetic approach to her patients. She obtained a BSc from Cornell University in Nutritional Science and went on to study shiatsu at the Ohashi Institute, New York City, gaining her Massage Therapist licence at the Swedish Institute, NYC.
+
+Elise moved to London in 1985 to study acupuncture at the London School of Acupuncture and Traditional Chinese Medicine. She was one of the founding members of The Shiatsu College in London in 1986.
+
+Elise subsequently did clinic training in China where she learnt the practice of Qi Gong. Her interest in Facial Acupuncture started in 2007 and she has completed training with Radha Thambirajah.
 
 In 2022 Elise completed a diploma course in Traditional Chinese Medicine Gynaecology and Obstetrics under the distinguished Dr Trevor A Wing, a renowned expert in the field of fertility.
 
