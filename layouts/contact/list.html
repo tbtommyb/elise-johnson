@@ -22,8 +22,23 @@
           </li>
         </ul>
       </div>
+      {{ if .Site.Data.contact.map.enable }}
       <div class="col-lg-6 col-sm-12">
-        {{ with .Site.Data.contact.contact.opennigHour }}
+      <section class="section pt-0">
+        <div class="container">
+          <iframe width="500" height="400" frameborder="0" src="https://www.bing.com/maps/embed?h=400&w=500&cp={{ .Site.Params.mapLatitude }}~{{ .Site.Params.mapLongitude }}&lvl=15&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+          </iframe>
+          <div style="white-space: nowrap; text-align: center; width: 500px; padding: 6px 0;">
+            <a id="largeMapLink" target="_blank" href="https://www.bing.com/maps?cp={{ .Site.Params.mapLatitude }}~{{ .Site.Params.mapLongitude }}&amp;sty=r&amp;lvl=14&amp;FORM=MBEDLD">View Larger Map</a> &nbsp; | &nbsp;
+            <a id="dirMapLink" target="_blank" href="https://www.bing.com/maps/directions?cp={{ .Site.Params.mapLatitude }}~{{ .Site.Params.mapLongitude }}&amp;sty=r&amp;lvl=14&amp;rtp=~pos.52.35547370875268_-0.95306396484375____&amp;FORM=MBEDLD">Get Directions</a>
+          </div>
+        </div>
+      </section>
+      </div>
+      {{ end }}
+      {{ if .Site.Data.contact.contact.openingHour.enable }}
+      <div class="col-lg-6 col-sm-12">
+        {{ with .Site.Data.contact.contact.openingHour }}
         <h3 class="mb-4">{{ .title | markdownify }}</h3>
         <ul class="list-unstyled">
           {{ range .dayTimeList }}
@@ -32,19 +47,11 @@
         </ul>
         {{ end }}
       </div>
+      {{ end }}
     </div>
   </div>
 </section>
 {{ end }}
 
-{{ if .Site.Data.contact.map.enable }}
-<section class="section pt-0">
-  <div class="container">
-    <div id="map_canvas" data-latitude="{{ .Site.Params.mapLatitude }}"
-      data-longitude="{{ .Site.Params.mapLongitude }}"
-      data-marker-name="{{ .Site.Title }}"></div>
-  </div>
-</section>
-{{ end }}
 
 {{ end }}

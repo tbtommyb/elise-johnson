@@ -6,8 +6,9 @@ contact:
     title : "Elise's Colchester clinic"
     content : "Elise's clinic is bright, airy and very relaxing. Please feel free to get in contact with any query you might. Elise will do her utmost to accommodate your schedule."
 
-  # opennig hour
-  opennigHour:
+  # opening hour
+  openingHour:
+    enable: false
     title : "In-person appointment times"
     dayTimeList:
       - dayTime : "Monday: 12:30 – early evening"

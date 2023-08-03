@@ -1,5 +1,5 @@
 ---
-title: "In-person sessions"
+title: "In-person treatments"
 date: 2020-07-20T21:43:49+01:00
 draft: false
 image: "images/treatment-room.jpg"

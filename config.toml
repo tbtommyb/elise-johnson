@@ -45,7 +45,7 @@ disqusShortname = ""
   URL = "chinese-medicine"
   weight = 4
   [[menu.main]]
-  name = "Shiatsu baby course"
+  name = "Shiatsu baby massage"
   URL = "shiatsu-baby-course"
   weight = 5
   [[menu.main]]
@@ -62,8 +62,7 @@ home = "Home"
 # Meta data
 description = "Descripton"
 author = "Elise Johnson"
-# google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyB6vJiBtIFjrz_cmMe1dwmNwaGUiKytSWc"
+# Map
 mapLatitude = "51.9076161195175"
 mapLongitude = "0.8995877068542768"
 mapMarker = "images/marker.png"

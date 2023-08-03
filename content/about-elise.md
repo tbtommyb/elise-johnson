@@ -4,7 +4,7 @@ date: 2020-07-20T22:01:35+01:00
 image: "images/Elise-Johnson-Photograph.png"
 draft: false
 ---
-Elise Johnson, BSc, MBAcC is a qualified acupuncturist and shiatsu therapist with over 30 years of experience working with mothers and babies in clinic and teaching shiatsu baby massage, both privately and in classes. Elise is known for her relaxing, effective, results-driven treatments – in acupuncture, shiatsu and cosmetic acupuncture.
+Elise Johnson, BSc, AAC is a qualified acupuncturist and shiatsu therapist with over 35 years of experience working with mothers and babies in clinic and teaching shiatsu baby massage, both privately and in classes. Elise is known for her relaxing, effective, results-driven treatments – in acupuncture, shiatsu and cosmetic acupuncture.
 
 Elise’s treatments take place in friendly, informal and pleasant surroundings and are a relaxing and pleasurable experience.
 
