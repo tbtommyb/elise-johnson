@@ -20,4 +20,4 @@ Clinic sessions are offered only at Elise's Colchester clinic.
 
 Please [contact Elise](/contact) for appointments.
 * Available afternoons from 12:30 to early evening.
-* **Each hour-long session is just £65**.
+* **Each hour-long session is just £70**.
